@@ -1,4 +1,4 @@
-## Welcome to the cmp167 final project
+## Welcome to the cmp167 final project Page
 
 You can use the [editor on GitHub](https://github.com/synac1/cmp167Fall2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
